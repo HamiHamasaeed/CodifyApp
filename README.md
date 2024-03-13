@@ -1,4 +1,4 @@
-# testapp
+# codifyapp
 
 A new Flutter project.
 

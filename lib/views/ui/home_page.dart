@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:testapp/views/shared/app_style.dart';
+import 'package:codifyapp/views/shared/app_style.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
